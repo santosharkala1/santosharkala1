@@ -1,10 +1,10 @@
-Hi, I'm Arkala Santosh Kumar
+# Hi, I'm Arkala Santosh Kumar 👋
 
-Aspiring Data Analyst | SQL | Python | Power BI | Excel
+### Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
 📍 Hyderabad, Telangana, India
 
-## About Me
+## 👨‍💻 About Me
 
 I'm an IT Support professional with **3 years of experience**, transitioning into a dedicated Data Analyst role.
 
@@ -14,7 +14,7 @@ I have practical training in **SQL, Microsoft Excel, Power BI, and Python**, wit
 
 I'm passionate about transforming raw data into meaningful insights that support better business decisions.
 
-
+---
 
 ## 🛠️ Technical Skills
 
@@ -29,7 +29,7 @@ I'm passionate about transforming raw data into meaningful insights that support
 | **Statistics** | Descriptive Statistics, Correlation, Confidence Intervals, Hypothesis Testing |
 | **Development Tools** | Jupyter Notebook, Google Colab |
 
-
+---
 
 ## 💼 Professional Experience
 
@@ -52,7 +52,15 @@ Worked on application monitoring, system validation, incident management, and co
 
 Handled customer support operations, troubleshooting, escalations, and process documentation.
 
+---
 
+## 📊 Featured Data Analytics Projects
+
+*Business-focused SQL, Python, and Power BI projects will be linked here as they are published.*
+
+Each project will demonstrate practical data analysis, technical implementation, key findings, and business insights.
+
+---
 
 ## 🎓 Education
 
@@ -64,7 +72,7 @@ Edinburgh Napier University, Scotland, United Kingdom
 
 Marri Laxman Reddy Institute of Technology and Management, Hyderabad
 
-
+---
 
 ## 🎯 Career Interests
 
@@ -80,6 +88,6 @@ Open to opportunities in:
 
 **Availability:** Immediate Joiner
 
-
+---
 
 *Focused on combining technical skills, analytical thinking, and operational experience to solve real-world business problems.*
