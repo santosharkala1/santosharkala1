@@ -42,8 +42,6 @@ I'm passionate about transforming raw data into meaningful insights that support
 - Prepared operational reports covering processing volumes, pending records, and team-wise workload distribution.
 - Coordinated with internal teams to resolve data discrepancies and allocation issues.
 
-### Previous Experience
-
 ### Cognizant Technology Solutions | Process Executive, Data
 *Sep 2021 – Nov 2022*
 
