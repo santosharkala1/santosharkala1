@@ -44,12 +44,12 @@ I'm passionate about transforming raw data into meaningful insights that support
 
 ### Previous Experience
 
-**Cognizant Technology Solutions — Process Executive, Data**
+### Cognizant Technology Solutions | Process Executive, Data
 *Sep 2021 – Nov 2022*
 
 Worked on application monitoring, system validation, incident management, and collaboration with IT teams.
 
-**HRH Next Pvt. Ltd. — Customer Care Support**
+### HRH Next Pvt. Ltd. | Customer Care Support
 *Nov 2020 – Aug 2021*
 
 Handled customer support operations, troubleshooting, escalations, and process documentation.
