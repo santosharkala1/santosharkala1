@@ -77,7 +77,6 @@ Open to opportunities in:
 - Reporting Analyst
 - Operations Analyst
 
-📍 Preferred Location: Hyderabad, India
 
 **Availability:** Immediate Joiner
 
