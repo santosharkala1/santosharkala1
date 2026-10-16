@@ -44,23 +44,18 @@ I'm passionate about transforming raw data into meaningful insights that support
 
 ### Previous Experience
 
-**Cognizant Technology Solutions — Process Executive, Technical Support**
+**Cognizant Technology Solutions — Process Executive, Data**
+*Sep 2021 – Nov 2022*
 
 Worked on application monitoring, system validation, incident management, and collaboration with IT teams.
 
 **HRH Next Pvt. Ltd. — Customer Care Support**
+*Nov 2020 – Aug 2021*
 
 Handled customer support operations, troubleshooting, escalations, and process documentation.
 
 ---
 
-## 📊 Featured Data Analytics Projects
-
-*Business-focused SQL, Python, and Power BI projects will be linked here as they are published.*
-
-Each project will demonstrate practical data analysis, technical implementation, key findings, and business insights.
-
----
 
 ## 🎓 Education
 
