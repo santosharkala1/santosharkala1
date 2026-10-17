@@ -55,6 +55,33 @@ Handled customer support operations, troubleshooting, escalations, and process d
 ---
 
 
+## 🚀 Featured Data Analytics Projects
+
+### 🛒 ShopSphere | SQL Business Analysis
+
+**Tools:** MySQL, SQL, Matplotlib
+
+Analyzed a sample e-commerce dataset containing
+16 transactions across online and store sales channels.
+
+**Key Highlights:**
+- Compared online and store sales performance.
+- Analyzed sales across product categories.
+- Identified top-performing customer cities.
+- Created a Python Matplotlib visualization.
+- Documented SQL queries and business insights.
+
+**Key Finding:**
+Online sales generated INR 89,700 in delivered sales,
+compared with INR 41,300 from physical store sales.
+
+**Note:** Findings are based on sample data,
+before separate discount adjustments.
+
+### 🔗 [View Complete SQL Project](https://github.com/santosharkala1/shopsphere-sql-business-analysis)
+
+
+
 ## 🎓 Education
 
 **MBA — Strategic Project Management**
